@@ -22,13 +22,13 @@ Clone the repository:
 
 ## Installation & Running
 
-# Install dependencies:
+### Install dependencies:
 - npm install
 
-# Run the application:
+### Run the application:
 - npm run dev
 
-# To build for production:
+### To build for production:
 - npm run build
 
 
