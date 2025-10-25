@@ -1,74 +1,22 @@
-Job Application Tracker
+# Job Application Tracker
 
-A desktop application to efficiently track and manage job applications. Built with Electron.js and Vite, this tool helps job seekers organize applications, automatically detect job links, and maintain records for follow-ups.
+A desktop application to efficiently track and manage job applications. Built with **Electron.js** and **Vite**, this tool helps job seekers organize applications, automatically detect job links, and maintain records for follow-ups.
 
-Features
+## Features
+- Cross-platform desktop application (Windows, macOS, Linux)  
+- Automatic job link detection from browser or clipboard  
+- Stores application records in Excel for easy tracking  
+- User-friendly interface with responsive design  
+- Focus management to ensure smooth workflow  
 
-Cross-platform desktop application (Windows, macOS, Linux)
+## Technologies Used
+- **Electron.js** – Desktop app framework  
+- **Vite** – Frontend build tool for fast development  
+- **Node.js** – Backend logic and file handling  
+- **JavaScript** – Core programming language  
+- **Excel Integration** – For storing and managing application records  
 
-Automatic job link detection from browser or clipboard
-
-Stores application records in Excel for easy tracking
-
-User-friendly interface with responsive design
-
-Focus management to ensure smooth workflow
-
-Technologies Used
-
-Electron.js – Desktop app framework
-
-Vite – Frontend build tool for fast development
-
-Node.js – Backend logic and file handling
-
-JavaScript – Core programming language
-
-Excel Integration – For storing and managing application records
-
-Installation
-
-Clone the repository:
-
+## Installation
+1. Clone the repository:  
+```bash
 git clone <repository-url>
-
-
-Install dependencies:
-
-npm install
-
-
-Run the application:
-
-npm run dev
-
-
-To build for production:
-
-npm run build
-
-Usage
-
-Open the app.
-
-Paste or input job application links.
-
-The app automatically logs entries to Excel.
-
-Track and manage application statuses easily.
-
-Future Enhancements
-
-Notifications for upcoming deadlines or follow-ups
-
-Dashboard with analytics for applications
-
-Integration with Google Sheets or other cloud storage
-
-Contributing
-
-Contributions are welcome! Please fork the repository and submit pull requests for improvements or new features.
-
-License
-
-This project is licensed under the MIT License.
