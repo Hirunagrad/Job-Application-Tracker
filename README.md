@@ -17,6 +17,19 @@ A desktop application to efficiently track and manage job applications. Built wi
 - **Excel Integration** – For storing and managing application records  
 
 ## Installation
-1. Clone the repository:  
-```bash
-git clone <repository-url>
+Clone the repository:  
+- git clone <repository-url>
+
+## Installation & Running
+
+# Install dependencies:
+- npm install
+
+# Run the application:
+- npm run dev
+
+# To build for production:
+- npm run build
+
+
+This is clean and includes exactly what you asked for.
