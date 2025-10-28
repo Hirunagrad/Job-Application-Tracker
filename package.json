@@ -15,7 +15,8 @@
     "electron-clipboard-watcher": "^1.0.1",
     "exceljs": "^4.4.0",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",

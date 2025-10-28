@@ -6,8 +6,11 @@ import path from "path";
 import type { JobEntry } from "./preload";
 //import { JobEntry } from "./preload"; // import type
 
+
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+
 
 function createWindow() {
   const win = new BrowserWindow({
